@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.facebook{
+    height: 70px;
+    background-color: #3b5998;
+}
+.img{
+    width: 140px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.labels{
+    color: white;
+    font-size: 10px;
+}
+.my{
+    width: 150px;
+}
+.password{
+    float: center;
+    margin-left: 160px;
+    margin-top: -50px;
+}
+.in{
+    background-color: royalblue;
+    border: none;
+}
+.login-button{
+    
+    margin-top: -43px;
+    font-size: 12px;
+    color: white;
+    margin-left: 330px;
+    border: none;
+}
+.content{
+    height: 500px;
+    background-color: #edf0f5;
+}
+.connect1{
+    height: 500px;
+    background-color: #edf0f5;
+}
+.connect2{
+    height: 500px;
+    background-color: #edf0f5;
+}
+.img1{
+    width: 350px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 102px;
+}
+.img2{
+    width: 380px;
+    height: 230px;
+    float: right;
+}
+.mobile{
+    margin-top: 5px;
+    width: 353px;
+}
+.password1{
+    width: 353px;
+    margin-top: 5px;
+}
+.multibox{
+    width: 50px;
+}
+.control-1{
+    float: left;
+    width: 40px;
+    height: 10px;
+}
+.create{
+    width: 150px;
+    background-color: #5c9449;
+    color: white;
+    border: 1px solid #5c9449;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn{
+    width: 50px;
+    height: 30px;
+}
+.why{
+    margin-top: -25px;
+    margin-left: 160px;
+    font-size: 10px; 
+}
+.hori{
+    border-color: silver;
+    width: 350px;
+}
+.clicking{
+    font-size: 10px;
+}
